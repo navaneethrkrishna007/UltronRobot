@@ -59,18 +59,6 @@
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
-<details><summary>Deploy To VPS</summary>
-
-git clone https://github.com/navaneethrkrishna007/UltronRobot
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
-
 ## Commands
 ```
 * /logs - to get the rescent errors
