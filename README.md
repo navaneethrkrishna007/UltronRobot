@@ -52,17 +52,8 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
 
-## Deploy
-You can deploy this bot anywhere.
-
-
-<summary>Deploy To Heroku</summary>
-<br>
-<p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Features">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
+# Deployment On Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 <a href="https://youtu.be/kB9TkCs8cX0">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
