@@ -52,9 +52,11 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
 
-# Deployment On Heroku
+# Deployment To Heroku
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/UltronRobot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
 
-[!][Deploy(https://heroku.com/deploy?template=https://github.com/SpideyserTG/Deadpool-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 <a href="https://youtu.be/kB9TkCs8cX0">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
