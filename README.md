@@ -53,8 +53,9 @@
 ### Optional Variables
 
 # Deployment On Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
+[!][Deploy(https://heroku.com/deploy?template=https://github.com/SpideyserTG/Deadpool-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
 <a href="https://youtu.be/kB9TkCs8cX0">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
