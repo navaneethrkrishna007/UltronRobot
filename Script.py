@@ -307,6 +307,12 @@ This module only works for my admins
 <code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
 <code>/video https://youtu.be/kB9TkCs8cX0</code>"""
 
+STICK_TXT = """<b>𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖣</b>
+- 𝖳𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗂𝗌 𝗎𝗌𝖾𝖽 𝗍𝗈 𝗀𝖾𝗍 𝖺 𝖨𝖣 𝗈𝖿 𝖺𝗇 𝗌𝗍𝗂𝖼𝗄𝖾𝗋
+
+<b>Command</b>
+- /stickerid - 𝖦𝖾𝗍 𝖨𝖣
+
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
 <b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
