@@ -51,7 +51,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Ajax
+git clone https://github.com/navaneethrkrishna007/UltronRobot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
