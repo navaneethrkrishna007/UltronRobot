@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Utron-Extra-FeaturesLogo">
+  <img src="assets/AJAX.png" alt="Ajax Techz">
 </p>
 <h1 align="center">
-  <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 </h1>
-
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
+  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-
-[![Stars](https://img.shields.io/github/stars/https://github.com/navaneethrkrishna007/UltronRobot?style=flat-square&color=green)](https://github.com/navaneethrkrishna007/UltronRobot)
-[![Forks](https://img.shields.io/github/forks/https://github.com/navaneethrkrishna007/UltronRobot?style=flat-square&color=blue)](https://github.com/navaneethrkrishna007/UltronRobot)
-[![Size](https://img.shields.io/github/repo-size/https://github.com/navaneethrkrishna007/UltronRobot?style=flat-square&color=red)](https://github.com/navaneethrkrishna007/UltronRobot)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/navaneethrkrishna007/UltronRobot)   
-[![Contributors](https://img.shields.io/github/contributors/https://github.com/navaneethrkrishna007/UltronRobot?style=flat-square&color=green)](/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
+[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
+[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
+[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
@@ -28,14 +26,6 @@
 - [x] ids and User info 
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
-- [x] Youtube Video , Song , Thumbnail Download.
-- [x] Image Edit.
-- [x] Google Translator.
-- [x] Telegraph
-- [x] Entertainment
-- [x] Sticker ID Generator
-- [x] COVID Information
-- [x] File Store
 
 ## Variables
 
@@ -48,24 +38,41 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : https://t.me/New_MoviesTG
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
+* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 
-# Deployment To Heroku
-<p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/UltronRobot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
-</p>
 
+## Deploy
+You can deploy this bot anywhere.
+
+
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 </p>
-<a href="https://youtu.be/kB9TkCs8cX0">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
+</details>
+
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/Aadhi000/Ajax
+# Install Packages
+pip3 install -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
 
 ## Commands
 ```
-* /logs - to get the rescent errors
-* /stats - to get status of files in db.
+• /logs - to get the rescent errors
+• /stats - to get status of files in db.
 * /filter - add manual filters
 * /filters - view filters
 * /connect - connect to PM.
@@ -76,20 +83,18 @@
 * /delete - delete a specific file from index.
 * /info - get user info
 * /id - get tg ids.
-* /video - Download Video
-* /song - Download Song
 * /imdb - fetch info from imdb.
-* /users - to get list of my users and ids.
-* /chats - to get list of the my chats and ids 
-* /index  - to add files from a channel
-* /leave  - to leave from a chat.
-* /disable  -  do disable a chat.
+• /users - to get list of my users and ids.
+• /chats - to get list of the my chats and ids 
+• /index  - to add files from a channel
+• /leave  - to leave from a chat.
+• /disable  -  do disable a chat.
 * /enable - re-enable chat.
-* /ban  - to ban a user.
-* /unban  - to unban a user.
-* /channel - to get list of total connected channels
-* /broadcast - to broadcast a message to all Ajax users
+• /ban  - to ban a user.
+• /unban  - to unban a user.
+• /channel - to get list of total connected channels
+• /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [The Master](https://t.me/The_Master_TG)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [New Movies](https://t.me/New_MoviesTG)</b>
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/_strange_friend_/)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/MWUpdatez)
