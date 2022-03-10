@@ -313,9 +313,7 @@ STICK_TXT = """<b>𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖣</b>
 <b>Command</b>
 - /stickerid - 𝖦𝖾𝗍 𝖨𝖣
 
-    ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
-
-<b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
+    
 
 <b>Commands and Usage:</b>
 • /inkick - command with required arguments and i will kick members from group.
