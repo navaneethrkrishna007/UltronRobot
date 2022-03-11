@@ -1,4 +1,4 @@
-# credits: https://github.com/SpEcHiDe/PyroGramBot/pull/34
+# credits: https://github.com/navaneethrkrishna007/UltronRobot
 
 
 from pyrogram import Client, filters
