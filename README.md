@@ -7,11 +7,11 @@
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](/stargazers)
+[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/navaneethrkrishna007/UltronRobot/fork)
+[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax?style=flat-square&color=black)](https://github.com/navaneethrkrishna007/UltronRobot)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/navaneethrkrishna007/UltronRobot)   
+[![Contributors](https://img.shields.io/github/contributors/?style=flat-square&color=green)](https://github.com/navaneethrkrishna007/UltronRobot/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
