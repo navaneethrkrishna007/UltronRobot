@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 Movies 💠', url='https://t.me/New_MoviesTG')
+                InlineKeyboardButton('💠 Movies 💠', url='https://t.me/Cinema_Villa_TG')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -44,13 +44,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/New_MoviesTG'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_MoviesTG')
+            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/Cinema_Villa_TG'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Cinema_Villa_TG')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/New_MoviesTG')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/Cinema_Villa_TG')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -91,13 +91,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/New_MoviesTG'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_MoviesTG')
+            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/Cinema_Villa_TG'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Cinema_Villa_TG')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/New_MoviesTG')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/Cinema_Villa_TG')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
